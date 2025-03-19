@@ -24,6 +24,7 @@ int main() {
 
     printf("平均値は: %.2f\n", average);
     printf("testtest\n");
+    printf("プリン付き");
 
     
 
