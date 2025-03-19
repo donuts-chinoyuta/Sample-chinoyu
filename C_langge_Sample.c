@@ -35,6 +35,7 @@ int main() {
     printf("平均値は: %.2f\n", average);
     printf("testtest\n");
     printf("標準偏差は: %.2f\n", InSD);
+    printf("Test");
 
     return 0;
 
