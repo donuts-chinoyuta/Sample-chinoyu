@@ -17,7 +17,12 @@ int main() {
     }
 
     average = sum / n; // 平均を計算
+    
+
     printf("平均値は: %.2f\n", average);
+    printf("testTest");
+    
 
     return 0;
+
 }
