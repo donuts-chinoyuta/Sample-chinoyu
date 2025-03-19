@@ -2,7 +2,7 @@
 
 int main() {
     int n, i;
-    float sum = 0.0, average;
+    float sum = 0.0, average, SD;
 
     printf("データの数を入力してください: ");
     scanf("%d", &n);
@@ -14,13 +14,17 @@ int main() {
         printf("数字を入力してください [%d]: ", i + 1);
         scanf("%f", &numbers[i]);
         sum += numbers[i]; // 合計を計算
+
     }
 
     average = sum / n; // 平均を計算
-    
+
+
+
 
     printf("平均値は: %.2f\n", average);
-    printf("testTest");
+    printf("testtest\n");
+
     
 
     return 0;
