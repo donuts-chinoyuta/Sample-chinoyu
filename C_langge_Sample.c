@@ -34,7 +34,7 @@ int main() {
 
     printf("平均値は: %.2f\n", average);
     printf("testtest\n");
-
+    printf("aioueo");
     
 
     return 0;
