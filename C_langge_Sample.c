@@ -36,6 +36,7 @@ int main() {
     printf("testtest\n");
     printf("標準偏差は: %.2f\n", InSD);
     printf("Test");
+    printf("Gogo");
 
     return 0;
 
