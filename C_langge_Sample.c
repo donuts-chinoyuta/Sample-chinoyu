@@ -35,7 +35,8 @@ int main() {
     printf("平均値は: %.2f\n", average);
     printf("testtest\n");
     printf("aioueo");
-    pりんtf("明日は卒業式だよ!");
+    printf("明日は卒業式だよ!");
+
 
     return 0;
 
