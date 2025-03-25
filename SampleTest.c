@@ -16,6 +16,7 @@ int main() {
 
     // 結果を表示
     printf("合計: %d\n", sum);
+    printf("これはテストです\n");
 
     return 0; // 正常終了
 }
