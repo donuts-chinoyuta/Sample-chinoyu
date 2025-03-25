@@ -7,4 +7,6 @@ result = num1 + num2
 
 # 結果を表示
 print(f"合計は {result} です！")
+print(f"合計は {result} です！")
+
 
